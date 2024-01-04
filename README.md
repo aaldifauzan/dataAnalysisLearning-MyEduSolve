@@ -1,10 +1,10 @@
-Welcome to my repository for the assignments completed during the Data Analysis - MyEduSolve.
+## Data Analysis Learning - MyEduSolve
 
-Program: Data Analysis - MyEduSolve
+### Welcome to my repository for the assignments completed during the Data Analysis - MyEduSolve.
 
-My Name: Aldi Fauzan
-
-Period: August - December 2023
+- Program: Data Analysis - MyEduSolve
+- My Name: Aldi Fauzan
+- Period: August - December 2023
 
 In this repository, you will find assignments and projects that I've worked on during the MSIB 5 Kampus Merdeka MyEduSolve.
 
